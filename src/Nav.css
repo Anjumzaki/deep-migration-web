@@ -1,0 +1,29 @@
+.bg-light {
+    background-color: white !important;
+}
+
+.nav_Logo {
+    width: 150px;
+}
+.nav-item{
+    margin-left: 20px;
+}
+.nav-link{
+    color: #006688 !important;
+}
+.specMyBtn{
+    border: 1px solid #006688 !important;
+    background-color: white !important;
+    font-size: 14px !important;
+    color: #006688 !important;
+}
+.specMyBtn:hover{
+    background-color: #006688 !important;
+    color: white !important;
+}
+@media only screen and (min-width: 768px) {
+    .navLogo {
+        position: absolute;
+        top: 0px;
+    }
+}

@@ -1,0 +1,52 @@
+.sec1{
+    margin-top: 100px;
+}
+.sec1Heading{
+    padding: 19px 150px 19px 20px;
+    background: url('./assets/Group10.png') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: inline-block !important; 
+}
+.sec1Desc{
+    padding: 10px 20px;
+    font-size: 19px;
+}
+.sec2{
+    width: 100%;
+    margin-top: 100px;
+}
+.sec2 img{
+    width:100%
+}
+.sec2Desc{
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+    color: white;
+    font-size: 18px;
+}
+.sec2Desc a{
+    color: white;
+    text-decoration: underline;
+}
+.sec3Heading{
+    padding: 17.5px 150px 17.5px 20px;
+    background: url('./assets/Group12.png') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: inline-block !important; 
+}
+.transLogo{
+    width: 40%;
+}
+.transLogoWrap{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+}
